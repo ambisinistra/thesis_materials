@@ -1,4 +1,4 @@
-# diploma_materials
+#thesis_materials
 my materials for diploma project
 
 Implemented classifier to p300 conceal information test problem.
